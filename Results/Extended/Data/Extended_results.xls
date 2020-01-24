@@ -1,0 +1,102 @@
+Shape Analysis using RadonS 24-Jan-2020  
+ 
+Image  1
+ 
+Particle	difference (percent)	Regions	Class
+1 	 9.534089 	 30.000000 	 Angular 
+2 	 8.522511 	 29.000000 	 Angular 
+3 	 7.490097 	 42.000000 	 Angular 
+4 	 6.262380 	 23.000000 	 Angular 
+5 	 5.516014 	 26.000000 	 Angular 
+6 	 6.427985 	 26.000000 	 Angular 
+7 	 6.233719 	 25.000000 	 Angular 
+8 	 6.805780 	 30.000000 	 Angular 
+9 	 6.490832 	 32.000000 	 Angular 
+10 	 7.330199 	 24.000000 	 Angular 
+11 	 6.384682 	 32.000000 	 Angular 
+12 	 7.901106 	 27.000000 	 Angular 
+13 	 4.159834 	 39.000000 	 Angular 
+14 	 7.540198 	 24.000000 	 Angular 
+15 	 7.823496 	 27.000000 	 Angular 
+
+ 
+Image  2
+ 
+Particle	difference (percent)	Regions	Class
+1 	 6.471929 	 14.000000 	 Sub-angular 
+2 	 9.292097 	 22.000000 	 Sub-angular 
+3 	 6.457162 	 16.000000 	 Sub-angular 
+4 	 7.218845 	 14.000000 	 Sub-angular 
+5 	 5.393187 	 17.000000 	 Sub-angular 
+6 	 6.072599 	 12.000000 	 Sub-angular 
+7 	 7.615887 	 15.000000 	 Sub-angular 
+8 	 3.772075 	 10.000000 	 Sub-angular 
+9 	 6.256624 	 18.000000 	 Sub-angular 
+10 	 9.829180 	 17.000000 	 Sub-angular 
+11 	 7.769008 	 20.000000 	 Sub-angular 
+12 	 7.244261 	 14.000000 	 Sub-angular 
+13 	 6.429942 	 16.000000 	 Sub-angular 
+14 	 6.008996 	 19.000000 	 Angular 
+15 	 5.268000 	 19.000000 	 Sub-angular 
+
+ 
+Image  3
+ 
+Particle	difference (percent)	Regions	Class
+1 	 4.749045 	 4.000000 	 Sub-rounded 
+2 	 5.600208 	 8.000000 	 Sub-rounded 
+3 	 7.840745 	 6.000000 	 Sub-rounded 
+4 	 5.375398 	 8.000000 	 Sub-rounded 
+5 	 2.787833 	 8.000000 	 Sub-rounded 
+6 	 2.353435 	 6.000000 	 Sub-rounded 
+7 	 4.942122 	 9.000000 	 Sub-rounded 
+8 	 6.105924 	 7.000000 	 Sub-rounded 
+9 	 3.773585 	 2.000000 	 Sub-rounded 
+10 	 3.001140 	 12.000000 	 Sub-angular 
+11 	 5.631239 	 5.000000 	 Sub-rounded 
+12 	 1.809312 	 2.000000 	 Rounded 
+13 	 3.807848 	 6.000000 	 Sub-rounded 
+14 	 4.150257 	 3.000000 	 Sub-rounded 
+15 	 3.581069 	 2.000000 	 Sub-rounded 
+
+ 
+Image  4
+ 
+Particle	difference (percent)	Regions	Class
+1 	 2.760675 	 1.000000 	 Rounded 
+2 	 2.044443 	 1.000000 	 Rounded 
+3 	 3.036846 	 1.000000 	 Rounded 
+4 	 3.747578 	 1.000000 	 Sub-rounded 
+5 	 3.250245 	 1.000000 	 Rounded 
+6 	 2.425515 	 3.000000 	 Rounded 
+7 	 1.732173 	 2.000000 	 Rounded 
+8 	 1.867253 	 2.000000 	 Rounded 
+9 	 2.328649 	 1.000000 	 Rounded 
+10 	 2.953527 	 0.000000 	 Rounded 
+11 	 2.541898 	 2.000000 	 Rounded 
+12 	 2.908371 	 3.000000 	 Rounded 
+13 	 2.494345 	 0.000000 	 Rounded 
+14 	 2.433421 	 1.000000 	 Rounded 
+15 	 3.066613 	 1.000000 	 Rounded 
+
+ 
+Image  5
+ 
+Particle	difference (percent)	Regions	Class
+1 	 0.159888 	 0.000000 	 Well-rounded 
+2 	 1.532958 	 0.000000 	 Well-rounded 
+3 	 0.000000 	 0.000000 	 Well-rounded 
+4 	 0.121932 	 0.000000 	 Well-rounded 
+5 	 0.305865 	 0.000000 	 Well-rounded 
+6 	 0.107892 	 0.000000 	 Well-rounded 
+7 	 0.000000 	 0.000000 	 Well-rounded 
+8 	 0.821130 	 0.000000 	 Well-rounded 
+9 	 0.629597 	 0.000000 	 Well-rounded 
+10 	 0.387992 	 0.000000 	 Well-rounded 
+11 	 0.097965 	 0.000000 	 Well-rounded 
+12 	 0.000000 	 0.000000 	 Well-rounded 
+13 	 0.279815 	 0.000000 	 Well-rounded 
+14 	 0.351986 	 0.000000 	 Well-rounded 
+15 	 0.000000 	 0.000000 	 Well-rounded 
+
+ 

@@ -1,0 +1,52 @@
+Shape Analysis using RadonS 24-Jan-2020  
+ 
+Image  1
+ 
+Particle	difference (percent)	Regions	Class
+1 	 7.490097 	 42.000000 	 Angular 
+2 	 6.427985 	 26.000000 	 Angular 
+3 	 6.490832 	 32.000000 	 Angular 
+4 	 7.330199 	 24.000000 	 Angular 
+5 	 7.540198 	 24.000000 	 Angular 
+
+ 
+Image  2
+ 
+Particle	difference (percent)	Regions	Class
+1 	 9.292097 	 22.000000 	 Sub-angular 
+2 	 7.218845 	 14.000000 	 Sub-angular 
+3 	 7.615887 	 15.000000 	 Sub-angular 
+4 	 9.829180 	 17.000000 	 Sub-angular 
+5 	 6.429942 	 16.000000 	 Sub-angular 
+
+ 
+Image  3
+ 
+Particle	difference (percent)	Regions	Class
+1 	 7.840745 	 6.000000 	 Sub-rounded 
+2 	 5.375398 	 8.000000 	 Sub-rounded 
+3 	 3.773585 	 2.000000 	 Sub-rounded 
+4 	 5.631239 	 5.000000 	 Sub-rounded 
+5 	 4.150257 	 3.000000 	 Sub-rounded 
+
+ 
+Image  4
+ 
+Particle	difference (percent)	Regions	Class
+1 	 3.036846 	 1.000000 	 Rounded 
+2 	 2.431514 	 3.000000 	 Rounded 
+3 	 2.328649 	 1.000000 	 Rounded 
+4 	 2.953527 	 0.000000 	 Rounded 
+5 	 2.494345 	 0.000000 	 Rounded 
+
+ 
+Image  5
+ 
+Particle	difference (percent)	Regions	Class
+1 	 1.532958 	 0.000000 	 Well-rounded 
+2 	 0.121932 	 0.000000 	 Well-rounded 
+3 	 0.629597 	 0.000000 	 Well-rounded 
+4 	 0.000000 	 0.000000 	 Well-rounded 
+5 	 0.000000 	 0.000000 	 Well-rounded 
+
+ 
